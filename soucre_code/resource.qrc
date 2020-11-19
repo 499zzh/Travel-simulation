@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>my_data/danger.txt</file>
+        <file>my_data/timetable.txt</file>
+        <file>image/map/my_map.png</file>
+        <file>image/trans_icon/汽车.ico</file>
+        <file>image/trans_icon/火车.ico</file>
+        <file>image/trans_icon/飞机.ico</file>
+        <file>image/traveller_icon/tr_i1.ico</file>
+        <file>image/traveller_icon/tr_i2.ico</file>
+        <file>image/traveller_icon/tr_i3.ico</file>
+        <file>image/traveller_icon/tr_i4.ico</file>
+        <file>image/traveller_icon/tr_i5.ico</file>
+        <file>image/traveller_icon/tr_i6.ico</file>
+        <file>image/traveller_icon/tr_i7.ico</file>
+        <file>image/mainicon.ico</file>
+        <file>image/city_icon/bj.ico</file>
+        <file>image/city_icon/cd.ico</file>
+        <file>image/city_icon/gz.ico</file>
+        <file>image/city_icon/heb.ico</file>
+        <file>image/city_icon/hz.ico</file>
+        <file>image/city_icon/nj.ico</file>
+        <file>image/city_icon/sh.ico</file>
+        <file>image/city_icon/sy.ico</file>
+        <file>image/city_icon/wh.ico</file>
+        <file>image/city_icon/xa.ico</file>
+        <file>image/traveller_icon/tr_i8.ico</file>
+        <file>image/traveller_icon/tr_i9.ico</file>
+        <file>image/traveller_icon/tr_i10.ico</file>
+        <file>image/traveller_icon/tr_i11.ico</file>
+        <file>image/traveller_icon/tr_i12.ico</file>
+        <file>image/traveller_icon/tr_i13.ico</file>
+    </qresource>
+</RCC>

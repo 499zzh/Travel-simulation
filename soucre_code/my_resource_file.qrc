@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/traveller_icon/tr_i1.ico</file>
+        <file>image/traveller_icon/tr_i2.ico</file>
+        <file>image/traveller_icon/tr_i3.ico</file>
+        <file>image/traveller_icon/tr_i4.ico</file>
+        <file>image/traveller_icon/tr_i5.ico</file>
+        <file>image/traveller_icon/tr_i6.ico</file>
+        <file>image/traveller_icon/tr_i7.ico</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>my_data/danger.txt</file>
+        <file>my_data/timetable.txt</file>
+    </qresource>
+</RCC>
